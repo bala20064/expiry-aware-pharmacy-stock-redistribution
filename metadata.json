@@ -1,0 +1,8 @@
+{
+  "name": "Expiry-Aware Pharmacy Stock Redistribution & Monitoring System",
+  "description": "Inventory decision-support system identifying near-expiry medicines and recommending redistribution between pharmacy locations to prevent avoidable wastage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

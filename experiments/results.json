@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "evaluation_title": "Expiry-Aware Stock Redistribution Performance Experiment",
+    "dataset_type": "Synthetic Simulation Dataset",
+    "simulation_reference_date": "2026-09-10",
+    "sample_size_batches": 2642,
+    "generated_at": "2026-09-07 12:49:17"
+  },
+  "baseline": {
+    "model_name": "Baseline (Manual Expiry Sorting)",
+    "batches_evaluated": 2642,
+    "total_at_risk_value": 171084461.2,
+    "value_used_before_expiry": 107416539.8,
+    "value_transferred_before_expiry": 0.0,
+    "value_expired": 63667921.4,
+    "quantity_saved": 1094655,
+    "quantity_expired": 431669,
+    "stock_recovery_rate_pct": 62.79,
+    "redistribution_success_rate_pct": 0.0,
+    "wastage_reduction_pct": 0.0,
+    "high_priority_unresolved_actions": 468,
+    "average_action_time_days": 11.4
+  },
+  "proposed": {
+    "model_name": "Proposed System (Expiry-Aware Redistribution)",
+    "batches_evaluated": 2642,
+    "total_at_risk_value": 171084461.2,
+    "value_used_before_expiry": 86664860.0,
+    "value_transferred_before_expiry": 74496317.8,
+    "value_expired": 9923283.4,
+    "quantity_saved": 1475238,
+    "quantity_expired": 51086,
+    "stock_recovery_rate_pct": 94.2,
+    "redistribution_success_rate_pct": 100.0,
+    "wastage_reduction_inr": 53744638.0,
+    "wastage_reduction_pct": 84.41,
+    "high_priority_unresolved_actions": 35,
+    "average_action_time_days": 1.8
+  },
+  "improvements": {
+    "wastage_reduction_inr": 53744638.0,
+    "wastage_reduction_pct": 84.41,
+    "recovery_rate_gain_percentage_points": 31.41,
+    "action_time_reduction_days": 9.6,
+    "quantity_saved_gain": 380583
+  }
+}

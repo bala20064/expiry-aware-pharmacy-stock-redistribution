@@ -1,0 +1,41 @@
+medicine_id,medicine_name,generic_name,category,unit_price,pack_size,storage_type
+MED-001,Paracetamol 500mg,Paracetamol,Analgesics,24.5,20,Ambient
+MED-002,Amoxicillin 250mg,Amoxicillin,Antibiotics,68.0,10,Ambient
+MED-003,Cetirizine 10mg,Cetirizine,Antihistamines,18.2,10,Ambient
+MED-004,Metformin 500mg,Metformin,Antidiabetic,32.0,20,Ambient
+MED-005,Azithromycin 250mg,Azithromycin,Antibiotics,115.5,6,Ambient
+MED-006,Omeprazole 20mg,Omeprazole,Gastrointestinal,42.0,15,Ambient
+MED-007,Atorvastatin 10mg,Atorvastatin,Cardiovascular,85.0,15,Ambient
+MED-008,Amlodipine 5mg,Amlodipine,Cardiovascular,28.5,30,Ambient
+MED-009,Pantoprazole 40mg,Pantoprazole,Gastrointestinal,76.0,15,Ambient
+MED-010,Vitamin B12 1500mcg,Methylcobalamin,Vitamins & Supplements,145.0,10,Ambient
+MED-011,Insulin Glargine 100IU/ml,Insulin Glargine,Antidiabetic,480.0,1,Cold Storage (2-8C)
+MED-012,Losartan Potassium 50mg,Losartan,Cardiovascular,52.0,15,Ambient
+MED-013,Ciprofloxacin 500mg,Ciprofloxacin,Antibiotics,72.0,10,Ambient
+MED-014,Montelukast 10mg,Montelukast,Respiratory,98.0,10,Ambient
+MED-015,Rosuvastatin 10mg,Rosuvastatin,Cardiovascular,110.0,15,Ambient
+MED-016,Telmisartan 40mg,Telmisartan,Cardiovascular,64.0,15,Ambient
+MED-017,Ibuprofen 400mg,Ibuprofen,Analgesics,22.0,20,Ambient
+MED-018,Glimepiride 2mg,Glimepiride,Antidiabetic,45.0,15,Ambient
+MED-019,Clopidogrel 75mg,Clopidogrel,Cardiovascular,92.0,15,Ambient
+MED-020,Levocetirizine 5mg,Levocetirizine,Antihistamines,26.0,10,Ambient
+MED-021,Doxycycline 100mg,Doxycycline,Antibiotics,54.0,10,Ambient
+MED-022,Metoprolol Succinate 25mg,Metoprolol,Cardiovascular,58.0,20,Ambient
+MED-023,Rabeprazole 20mg,Rabeprazole,Gastrointestinal,65.0,15,Ambient
+MED-024,Calcium + Vitamin D3,Calcium Carbonate,Vitamins & Supplements,82.0,30,Ambient
+MED-025,Voglibose 0.3mg,Voglibose,Antidiabetic,78.0,10,Ambient
+MED-026,Amoxicillin + Clavulanate 625mg,Co-Amoxiclav,Antibiotics,168.0,10,Ambient
+MED-027,Domperidone 10mg,Domperidone,Gastrointestinal,36.0,20,Ambient
+MED-028,Folic Acid 5mg,Folic Acid,Vitamins & Supplements,15.0,30,Ambient
+MED-029,Levothyroxine 50mcg,Levothyroxine,Endocrine,125.0,100,Ambient
+MED-030,Salbutamol Inhaler 100mcg,Salbutamol,Respiratory,140.0,1,Ambient
+MED-031,Budesonide Inhaler 200mcg,Budesonide,Respiratory,290.0,1,Ambient
+MED-032,Enoxaparin 40mg/0.4ml,Enoxaparin,Cardiovascular,420.0,2,Cold Storage (2-8C)
+MED-033,Cefixime 200mg,Cefixime,Antibiotics,105.0,10,Ambient
+MED-034,Diclofenac Sodium 50mg,Diclofenac,Analgesics,28.0,20,Ambient
+MED-035,Gabapentin 300mg,Gabapentin,Neurology,112.0,10,Controlled
+MED-036,Pregabalin 75mg,Pregabalin,Neurology,135.0,10,Controlled
+MED-037,Hydrochlorothiazide 12.5mg,Hydrochlorothiazide,Cardiovascular,25.0,20,Ambient
+MED-038,Ascorbic Acid (Vitamin C) 500mg,Vitamin C,Vitamins & Supplements,38.0,20,Ambient
+MED-039,Zinc Sulphate 20mg,Zinc,Vitamins & Supplements,45.0,20,Ambient
+MED-040,Human Albumin 20% 100ml,Albumin,Critical Care,2200.0,1,Cold Storage (2-8C)
